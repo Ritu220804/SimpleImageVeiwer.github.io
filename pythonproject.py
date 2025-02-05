@@ -234,8 +234,8 @@ def main():
    root.mainloop()
 
 # Run the main function if this file is executed 
-if name == "main":
+if __name__ == "__main__":
    main()
 
 
-phase 2
+
